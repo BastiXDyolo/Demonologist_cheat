@@ -1,4 +1,4 @@
-# Demonologist_unlock_all
+# Demonologist cheat
 Demonologist unlock all cheat 
 
 For game version 0.2.2
