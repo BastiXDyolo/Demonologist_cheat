@@ -1,9 +1,7 @@
 # Demonologist cheat
-Demonologist unlock all cheat 
+Demonologist cheat 
 
 For game version 0.2.2
-
-Sign Up dont working now!
 
 # Info
 
