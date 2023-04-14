@@ -3,6 +3,8 @@ Demonologist unlock all cheat
 
 For game version 0.2.2
 
+Sign Up dont working now!
+
 # Info
 
 Use a key from the Keys.txt file and register. 
