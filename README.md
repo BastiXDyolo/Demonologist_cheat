@@ -1,7 +1,7 @@
 # Demonologist cheat
 Demonologist cheat 
 
-For game version 0.2.2
+For game version 0.3.1
 
 # Info
 
